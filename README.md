@@ -170,7 +170,7 @@ We would like to thank the following for their contributions and support in the 
 
 ## Contact
 
-If you have any questions, encounter issues, or need support, please don't hesitate to reach out to our team:
+If you have any questions, encounter issues, or need support, please don't hesitate to reach out to our team: 
 
 - **John Carlo M. Tanjuakio**
 
